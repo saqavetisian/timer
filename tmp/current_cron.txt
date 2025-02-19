@@ -1,0 +1,1 @@
+FANCY_JOB_USE_LLM=true uv run python update_number.py
